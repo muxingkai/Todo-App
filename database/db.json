@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "id": "e62a",
+      "title": "Do something nice for someone you care about"
+    },
+    {
+      "id": "3d5f",
+      "title": "Memorize a poem"
+    },
+    {
+      "id": "8534",
+      "title": "Watch a classic movie"
+    },
+    {
+      "id": "a382",
+      "title": "Invest in cryptocurrency"
+    },
+    {
+      "id": "a9c9",
+      "title": "Contribute code or a monetary donation to an open-source software project"
+    },
+    {
+      "id": "d7e6",
+      "title": "Solve a Rubik's cube"
+    },
+    {
+      "id": "5fcd",
+      "title": "Bake pastries for yourself and neighbor"
+    },
+    {
+      "id": "d621",
+      "title": "Write a thank you letter to an influential person in your life"
+    },
+    {
+      "id": "313e",
+      "title": "Take a class at local community center that interests you"
+    },
+    {
+      "id": "58cd",
+      "title": "Have a photo session with some friends"
+    }
+  ]
+}
