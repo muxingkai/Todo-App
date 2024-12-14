@@ -7,9 +7,12 @@ simple app using typescript and some famous library to practice frontend skills 
 - axios
 - tailwind css
 
-> installation
+> Installation
 >
 `npm install`
-> run app
+> Start database server
+> 
+`npx json-server --watch database/db.json`
+> Run app
 > 
 `npm run dev`
